@@ -1,0 +1,2 @@
+com.eale.spi.service.impl.KryoSerializer
+com.eale.spi.service.impl.JavaSerializer
