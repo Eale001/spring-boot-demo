@@ -1,4 +1,4 @@
-package com.eale.redis;
+package com.eale;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

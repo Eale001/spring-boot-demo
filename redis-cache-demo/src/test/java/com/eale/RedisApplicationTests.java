@@ -1,4 +1,4 @@
-package com.eale.redis;
+package com.eale;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,5 +1,7 @@
-package com.eale.redis.cache;
+package com.eale.cache;
 
+import com.eale.redis.cache.CustomizedRedisCache;
+import org.springframework.cache.caffeine.CaffeineCache;
 import org.springframework.cache.support.AbstractValueAdaptingCache;
 import org.springframework.data.redis.core.RedisOperations;
 
